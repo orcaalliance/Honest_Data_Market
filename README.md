@@ -81,15 +81,15 @@ During the second stage, we are designing and deploying **ORCA Safe Storage** �
 
 **ORCA HDB Architecture**
 <p align="center">
-  <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/ORCA_HDB.png" width="100%" title="ORCA HDB Architecture">
+  <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/images/ORCA_HDB.png" width="100%" title="ORCA HDB Architecture">
 </p>
 
 **Stage #2 – ORCA an Honest Data Broker (HDB)**
  - ORCA develops, deploys and maintains needed infrastructure, including but not limited to:
-   - **ORCA PYGMY** – frontend environment and interface solution. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/ORCA_logo.jpg" width="15px" title="ORCA PYGMY">
-   - **ORCA Safe Storage** – secure data storage and encryption architecture. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/ORCA_Safe Storage.png" width="15px" title="ORCA Safe">
-   - **ORCA Watcher** – transaction and interaction monitoring environment. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/ORCA_Watcher.png" width="15px" title="ORCA Watcher">
-   - **ORCA Broker** – data processing and distribution/monetisation services. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/ORCA_broker.png" width="15px" title="ORCA Broker">
+   - **ORCA PYGMY** – frontend environment and interface solution. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/images/ORCA_logo.jpg" width="15px" title="ORCA PYGMY">
+   - **ORCA Safe Storage** – secure data storage and encryption architecture. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/images/ORCA_Safe Storage.png" width="15px" title="ORCA Safe">
+   - **ORCA Watcher** – transaction and interaction monitoring environment. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/images/ORCA_Watcher.png" width="15px" title="ORCA Watcher">
+   - **ORCA Broker** – data processing and distribution/monetisation services. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/images/ORCA_broker.png" width="15px" title="ORCA Broker">
  - ORCA provides convenient interface for both, C2B and B2B users. *(both, WEB and Mobile)*
  - ORCA securely aggregates financial data on behalf of users. *(data aggregation via API from Crypto and Fiat Institutions)*
  - ORCA encrypts and stores user’s data. *(user-centralised, multilevel encryption and secure cloud storage architecture)*
@@ -140,15 +140,15 @@ Preferred programming languages:
 
 **ORCA HDM Architecture**
 <p align="center">  
- <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/ORCA_HDM2.png" width="100%" title="ORCA HDM Architecture">
- <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/ORCA_HDM.png" width="100%" title="ORCA HDM Architecture">
+ <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/images/ORCA_HDM2.png" width="100%" title="ORCA HDM Architecture">
+ <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/images/ORCA_HDM.png" width="100%" title="ORCA HDM Architecture">
 </p>
 
 **Stage #3 – ORCA an Honest Data Market (HDM)**
 In addition to everything developed for the Stage #2, ORCA will develop, deploy and maintain:
- - **ORCA Data Terminal** – solution to control safe, secure, permission-based data processing by third parties. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/ORCA_Data Terminal.png" width="15px" title="ORCA Data Terminal"> 
- - **ORCA Passport** – identification, verification and audition of requesters. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/ORCA_Passport.png" width="15px" title="ORCA Passport"> 
- - **ORCA Harvester** – multilevel data aggregation solution. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/ORCA_Harvester.png" width="15px" title="ORCA Data Harvester"> 
- - **ORCA Portun** – access and permission management solution based on the blockchain. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/ORCA_Portun.png" width="15px" title="ORCA Portun">
- - **ORCA Market** – a convenient platform and framework for data users, requesters and brokers. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/ORCA_Market.png" width="15px" title="ORCA Market"> 
- - **ORCA Wallet** – efficient gateway for cross-border payments and reward sharing. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/ORCA_Wallet.png" width="15px" title="ORCA Wallet"> 
+ - **ORCA Data Terminal** – solution to control safe, secure, permission-based data processing by third parties. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/images/ORCA_Data Terminal.png" width="15px" title="ORCA Data Terminal"> 
+ - **ORCA Passport** – identification, verification and audition of requesters. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/images/ORCA_Passport.png" width="15px" title="ORCA Passport"> 
+ - **ORCA Harvester** – multilevel data aggregation solution. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/images/ORCA_Harvester.png" width="15px" title="ORCA Data Harvester"> 
+ - **ORCA Portun** – access and permission management solution based on the blockchain. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/images/ORCA_Portun.png" width="15px" title="ORCA Portun">
+ - **ORCA Market** – a convenient platform and framework for data users, requesters and brokers. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/images/ORCA_Market.png" width="15px" title="ORCA Market"> 
+ - **ORCA Wallet** – efficient gateway for cross-border payments and reward sharing. <img src="https://github.com/orcaalliance/Honest_Data_Market/blob/master/images/ORCA_Wallet.png" width="15px" title="ORCA Wallet"> 
